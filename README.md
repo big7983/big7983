@@ -25,7 +25,7 @@ I just graduated and am looking for a company that is ready to give me a chance 
 
 <a href="http://www.github.com/big7983"><img src="https://github-readme-streak-stats.herokuapp.com/?user=big7983&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ิbig7983" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big7983&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>## Hi there 👋
+<a href="https://github.com/ิbig7983" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big7983&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **big7983/big7983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
